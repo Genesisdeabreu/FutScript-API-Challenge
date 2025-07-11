@@ -10,7 +10,7 @@ Este proyecto fue desarrollado como parte del desafío de Desafío Latam, enfoca
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
-![PostgreSQL](https://img.shields.io="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![pg](https://img.shields.io/badge/pg-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
